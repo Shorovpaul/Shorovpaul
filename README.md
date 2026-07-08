@@ -1,4 +1,107 @@
-# 👋 Hi, I'm Shorov Paul
+# Hi, I'm Shorov Paul 👋
+
+## Network Operations Center (NOC) Engineer | Computer Science & Engineering Undergraduate
+
+Welcome to my GitHub profile! I am a Computer Science & Engineering undergraduate with a strong interest in **computer networking, ISP infrastructure, system administration, and machine learning**.
+
+Currently, I am beginning my professional journey as a **Network Operations Center (NOC) Engineer**, focusing on network monitoring, troubleshooting, and understanding real-world network infrastructure.
+
+I am passionate about continuous learning, solving technical challenges, and developing practical solutions through technology.
+
+---
+
+## About Me
+
+- 🎓 Computer Science & Engineering Undergraduate
+- 💻 Network Operations Center (NOC) Engineer
+- 🌐 Interested in Networking & Infrastructure
+- 🤖 Exploring Machine Learning and Data Analysis
+- 🚀 Passionate about technology and problem-solving
+
+---
+
+# Technical Skills
+
+## 🌐 Networking
+
+- TCP/IP Model
+- LAN/WAN Technologies
+- Routing & Switching
+- Network Troubleshooting
+- ISP Networking & Infrastructure
+- Network Monitoring
+
+---
+
+## 💻 Programming & Web Technologies
+
+- Python
+- C
+- HTML
+- CSS
+
+---
+
+## 🤖 Machine Learning & Data
+
+- Machine Learning Fundamentals
+- Data Analysis
+- Data Processing
+- Problem Solving
+
+---
+
+## 🛠️ Tools & Software
+
+- Arduino
+- Overleaf
+- Microsoft Word
+- Google Docs
+- Google Sheets
+- WPS Office
+- Canva
+
+---
+
+# Currently Learning
+
+🌱 Advanced Networking Concepts  
+🔐 Network Security  
+☁️ Cloud Computing & Server Technologies  
+⚙️ Network Automation  
+🤖 Machine Learning Applications  
+
+---
+
+# Areas of Interest
+
+📡 Network Operations & Infrastructure  
+🖥️ System Administration  
+🌐 ISP Technologies  
+🔍 Network Monitoring & Troubleshooting  
+🤖 Machine Learning Applications  
+💡 Open Source Projects  
+
+---
+
+# GitHub Statistics
+
+![Shorov's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shorovpaul&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shorovpaul&layout=compact&theme=tokyonight)
+
+---
+
+# Connect With Me
+
+📧 Email: shorovpaul16@gmail.com  
+📱 Phone: +880 1711-588331  
+
+I am always interested in connecting with professionals, collaborating on projects, and learning new technologies.
+
+---
+
+⭐ Thank you for visiting my profile!# 👋 Hi, I'm Shorov Paul
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0078D7&width=600&lines=CSE+Undergraduate+Student;Network+Operations+Center+(NOC)+Engineer;Networking+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
