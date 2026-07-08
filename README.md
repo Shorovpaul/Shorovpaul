@@ -2,7 +2,7 @@
 
 
 
-Welcome to my GitHub profile!
+
 
 I am a Computer Science & Engineering undergraduate with a strong passion for **computer networking, ISP infrastructure, system administration, and machine learning**.
 
