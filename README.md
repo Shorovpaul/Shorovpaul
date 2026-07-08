@@ -59,8 +59,6 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 - Advanced Networking Concepts
 - Network Security
-- Linux System Administration
-- Cloud Computing
 - Network Automation
 - Machine Learning Applications
 
@@ -72,7 +70,6 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 - 🌐 ISP Technologies
 - 🖥️ System Administration
 - 🔍 Network Monitoring & Troubleshooting
-- ☁️ Cloud & Server Technologies
 - 🤖 Artificial Intelligence & Machine Learning
 
 ---
