@@ -103,15 +103,7 @@ Feel free to explore my repositories and connect with me for collaboration, lear
 
 ⭐ Thanks for visiting my profile!# Hi, I'm Shorov Paul 👋
 
-## Network Operations Center (NOC) Engineer | Computer Science & Engineering Undergraduate
 
-Welcome to my GitHub profile! I am a Computer Science & Engineering undergraduate with a strong interest in **computer networking, ISP infrastructure, system administration, and machine learning**.
-
-Currently, I am beginning my professional journey as a **Network Operations Center (NOC) Engineer**, focusing on network monitoring, troubleshooting, and understanding real-world network infrastructure.
-
-I am passionate about continuous learning, solving technical challenges, and developing practical solutions through technology.
-
----
 
 ## About Me
 
