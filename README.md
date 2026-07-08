@@ -26,8 +26,6 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ## 🌐 Networking & Infrastructure
 
-- TCP/IP Fundamentals
-- LAN/WAN Technologies
 - Routing & Switching
 - Network Troubleshooting
 - ISP Network Infrastructure
