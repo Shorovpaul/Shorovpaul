@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Shorov Paul
 
-## Network Operations Center (NOC) Engineer | CSE Undergraduate | Networking & Machine Learning Enthusiast
+
 
 Welcome to my GitHub profile!
 
