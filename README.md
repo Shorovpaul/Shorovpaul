@@ -16,7 +16,6 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 - 🎓 Computer Science & Engineering Undergraduate
 - 🌐 NOC Engineer Intern
-- 📡 Interested in Network Infrastructure & ISP Technologies
 - 🤖 Exploring Machine Learning and Data Analysis
 - 💡 Focused on Continuous Learning & Problem Solving
 
