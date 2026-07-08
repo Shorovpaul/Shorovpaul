@@ -24,14 +24,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 # 🧰 Technical Skills
 
-## 🌐 Networking & Infrastructure
 
-- Routing & Switching
-- Network Troubleshooting
-- ISP Network Infrastructure
-- Network Monitoring
-
----
 
 ## 💻 Programming & Web Technologies
 
