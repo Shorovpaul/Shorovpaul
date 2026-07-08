@@ -21,7 +21,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-# 🧰 Technical Skills
+# Technical Skills
 
 
 
