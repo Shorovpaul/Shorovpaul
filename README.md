@@ -76,7 +76,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 # 📌 Goals
 
-My goal is to continuously improve my technical expertise, contribute to impactful projects, and grow as a professional in the field of **Networking, Infrastructure, and Emerging Technologies**.
+My goal is to continuously improve my technical expertise, contribute to impactful projects, and grow as a professional.
 
 ---
 
