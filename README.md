@@ -1,31 +1,73 @@
-# Hi, I'm Shorov Paul 👋
+# 👋 Hi, I'm Shorov Paul
 
-🎓 Computer Science & Engineering (CSE) Graduate  
-💻 Network Operations Center (NOC) Engineer | Networking Enthusiast  
-🌐 Passionate about Networking, System Administration, and Technology
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=0078D7&width=600&lines=CSE+Undergraduate+Student;Network+Operations+Center+(NOC)+Engineer;Networking+%7C+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
-## About Me
+---
 
-I am a CSE graduate with a strong interest in computer networking, network infrastructure, and IT operations. Currently, I am building my expertise in network monitoring, troubleshooting, and system management while exploring modern networking technologies.
+## 🚀 About Me
 
-## Skills & Interests
+🎓 Computer Science & Engineering (CSE) Undergraduate  
+💻 Joining as a **Network Operations Center (NOC) Engineer**  
+🌐 Passionate about **Computer Networking, ISP Infrastructure & Machine Learning**  
+🔍 Interested in solving real-world technical problems through technology  
 
-- 🌐 Computer Networking (TCP/IP, LAN/WAN, Routing & Switching)
-- 🔧 Network Monitoring & Troubleshooting
-- 🖥️ Linux & System Administration
-- 📡 ISP Networking & Infrastructure
-- 🗄️ Database Fundamentals
-- 💻 Programming & Software Development
+I am a quick learner with strong programming fundamentals and a passion for networking, system administration, and emerging technologies. I enjoy exploring new concepts, building projects, and improving my technical skills.
 
-## Currently Learning
+---
 
-- Advanced Networking Concepts
-- Network Security
-- Cloud & Server Technologies
-- Automation for Network Operations
+## 🛠️ Skills & Technologies
 
-## Let's Connect
+### 🌐 Networking
+![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue)
+![LAN/WAN](https://img.shields.io/badge/LAN%2FWAN-Networking-green)
+![Routing](https://img.shields.io/badge/Routing%20%26%20Switching-orange)
+![ISP](https://img.shields.io/badge/ISP%20Infrastructure-purple)
 
-I am always interested in learning new technologies, collaborating on projects, and connecting with people in the IT and networking community.
+### 💻 Programming & Development
+![Python](https://img.shields.io/badge/Python-Programming-yellow)
+![C](https://img.shields.io/badge/C-Language-blue)
+![Java](https://img.shields.io/badge/Java-Programming-red)
+![SQL](https://img.shields.io/badge/SQL-Database-lightgrey)
 
-📫 Feel free to explore my repositories and connect with me!
+### 🤖 Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-AI-brightgreen)
+![Data Science](https://img.shields.io/badge/Data%20Science-ML-blue)
+
+---
+
+## 📚 Currently Learning
+
+🌱 Advanced Networking Concepts  
+🔐 Network Security  
+☁️ Cloud Computing & Server Technologies  
+⚙️ Network Automation  
+🤖 Machine Learning Applications  
+
+---
+
+## 📌 Featured Interests
+
+🚀 Network Monitoring & Troubleshooting  
+📡 ISP Network Operations  
+🖥️ System Administration  
+📊 Machine Learning Projects  
+💡 Open Source Contribution  
+
+---
+
+## 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shorovpaul&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shorovpaul&layout=compact&theme=tokyonight" />
+
+---
+
+## 🤝 Let's Connect
+
+📧 Email: **shorovpaul16@gmail.com**  
+📱 Phone: **+880 1711-588331**
+
+💬 I am open to collaboration, learning opportunities, and connecting with technology enthusiasts.
+
+⭐ Feel free to explore my repositories!
