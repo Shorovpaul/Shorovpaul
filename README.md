@@ -12,7 +12,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-## 👨‍💻 Professional Profile
+## Professional Profile
 
 - 🎓 Computer Science & Engineering Undergraduate
 - 🌐 NOC Engineer Intern
@@ -25,7 +25,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 
 
-## 💻 Programming & Web Technologies
+##  Programming & Web Technologies
 
 - Python
 - C
@@ -34,7 +34,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-## 🤖 Machine Learning & Data Analysis
+## Machine Learning & Data Analysis
 
 - Machine Learning Fundamentals
 - Data Analysis
@@ -43,7 +43,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-## 🛠️ Tools & Software
+## Tools & Software
 
 - Arduino
 - Overleaf
@@ -54,7 +54,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-# 📚 Currently Exploring
+# Currently Exploring
 
 - Advanced Networking Concepts
 - Network Security
@@ -63,7 +63,7 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-# 🎯 Areas of Interest
+# Areas of Interest
 
 - 📡 Network Operations & Infrastructure
 - 🌐 ISP Technologies
@@ -73,13 +73,13 @@ I enjoy exploring new technologies, solving technical problems, and building sol
 
 ---
 
-# 📌 Goals
+# Goals
 
 My goal is to continuously improve my technical expertise, contribute to impactful projects, and grow as a professional.
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 📧 Email: shorovpaul16@gmail.com  
 📱 Phone: +880 1711-588331  
